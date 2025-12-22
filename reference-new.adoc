@@ -20,6 +20,14 @@ En la última versión de NetApp Console también se introducen características
 
 
 
+== 9.15.1 P16 (22 de diciembre de 2025)
+
+El parche 9.15.1 P16 ahora está disponible para Cloud Volumes ONTAP para todos los proveedores de nube. La consola le pedirá que actualice sus sistemas existentes a esta versión de parche.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P16["Ver la lista de errores corregidos en el parche P16"^](Se requiere iniciar sesión en el sitio de soporte de NetApp ).
+
+
+
 == 9.15.1 P15 (24 de octubre de 2025)
 
 El parche 9.15.1 P15 ahora está disponible para Cloud Volumes ONTAP para todos los proveedores de nube. La consola le pedirá que actualice sus sistemas existentes a esta versión de parche.
